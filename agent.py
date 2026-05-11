@@ -1,4 +1,3 @@
-
 #Import ADK components and Gemini LLM
 from google.adk.agents import Agent
 from google.adk.models.google_llm import Gemini
